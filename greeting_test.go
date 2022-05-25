@@ -1,4 +1,4 @@
-package geekgreeting
+package greeting
 
 import (
 	"testing"
